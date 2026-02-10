@@ -229,14 +229,14 @@ div.desc {
   </div>
 </div>
 
-<div class="responsive">
+<!--<div class="responsive">
   <div class="gallery">
     <a target="_blank" href="babyshower.jpg">
       <img src="babyshower.jpg" alt="Cinque Terre" width="600" height="400">
     </a>
     <div class="desc">Add a description of the image here</div>
   </div>
-</div>
+</div>-->
 
 <div class="responsive">
   <div class="gallery">
