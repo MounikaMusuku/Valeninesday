@@ -50,6 +50,22 @@ div.desc {
   display: table;
   clear: both;
 }
+
+.button-class {
+			background-color: #4CAF50;
+			/* Green */
+			border: none;
+			color: white;
+			padding: 10px 20px;
+			text-align: center;
+			text-decoration: none;
+			display: inline-block;
+			font-size: 16px;
+			margin: 4px 2px;
+			cursor: pointer;
+			border-radius: 4px;
+		}
+		
 </style>
 </head>
 <body>
@@ -229,14 +245,14 @@ div.desc {
   </div>
 </div>
 
-<!--<div class="responsive">
+<div class="responsive">
   <div class="gallery">
     <a target="_blank" href="babyshower.jpg">
       <img src="babyshower.jpg" alt="Cinque Terre" width="600" height="400">
     </a>
     <div class="desc">Add a description of the image here</div>
   </div>
-</div>-->
+</div>
 
 <div class="responsive">
   <div class="gallery">
@@ -261,6 +277,19 @@ div.desc {
 <div style="padding:6px;">
   
 </div>
+
+<!--  <label for="yes_no_radio">Do you agree to the terms?</label>
+<p>
+<input type="radio" name="yes_no" checked>Yes</input>
+</p>
+<p>
+<input type="radio" name="yes_no">No</input>
+</p>
+</div>-->
+<h1 > There is something special waiting for you, will you click on the below button? my husband🥰❤️...</h1>
+<a href="index.html" class="button-class">
+      Go to Another Page</a>
+
 
 </body>
 </html>
