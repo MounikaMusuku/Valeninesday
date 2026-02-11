@@ -70,9 +70,7 @@ div.desc {
 </head>
 <body>
 
-<h2>Responsive Image Gallery</h2>
-
-<h4>Resize the browser window to see the effect.</h4>
+<h2>Valentine's day special - Responsive Image Gallery</h2>
 
 
 
