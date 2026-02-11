@@ -287,7 +287,7 @@ div.desc {
 </p>
 </div>-->
 <h1 > There is something special waiting for you, will you click on the below button? my husband🥰❤️...</h1>
-<a href="index.html" class="button-class">
+<a href="other.html" class="button-class">
       Go to Another Page</a>
 
 
